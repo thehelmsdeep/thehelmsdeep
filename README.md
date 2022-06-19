@@ -1,3 +1,2 @@
-hi, im Ashkan
-flutter developer
-+ living in shiraz
+
+<img align="left" src="https://orhun.dev/img/crow.png">
