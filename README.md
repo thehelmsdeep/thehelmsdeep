@@ -1,2 +1,2 @@
+I am Ashkan, A Flutter and Android developer.
 
-<img align="left" src="https://orhun.dev/img/crow.png">
