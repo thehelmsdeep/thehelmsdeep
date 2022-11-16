@@ -1,2 +1,2 @@
-I am Ashkan, A Flutter and Android developer.
+ Hey there👋, I'm Ashkan
 
